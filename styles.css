@@ -176,6 +176,10 @@
 
 }
 
+.seccion-final {
+    display: flex;
+    justify-content: center;
+}
 
 @media(max-width:57.5em) {
     .container{
@@ -231,5 +235,6 @@
         visibility: hidden;
     }
 
+    
 
 }
